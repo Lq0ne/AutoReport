@@ -26,8 +26,8 @@ token_req_header = {
 }
 token_req_json = {
     "ApplyType":3,
-    "LoginName":"20190200779",
-    "Pwd":"Ran20010219",
+    "LoginName":"20190200000",
+    "Pwd":"mypwd_is_123123",
     "Code":"",
     "Key":"123123"
 }
